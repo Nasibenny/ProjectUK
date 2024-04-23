@@ -1,0 +1,11 @@
+-ADMIN-
+username : benny
+password : benny
+
+-KASIR-
+username : sinar
+password : sinar
+
+-OWNER-
+username : naga
+password : naga
